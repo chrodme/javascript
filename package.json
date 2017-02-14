@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "0.1.0",
+  "description": "curso de JS ",
+  "main": "server.js",
+  "author": "christian",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
